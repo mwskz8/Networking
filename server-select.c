@@ -1,6 +1,3 @@
-// Source: selectserver.c -- a cheezy multiperson chat server
-//http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html#select
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
